@@ -1,0 +1,16 @@
+{
+  "name": "RehackedNative",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react": "15.3.1",
+    "react-native": "0.33.0",
+    "react-native-camera": "git+https://github.com/lwansbrough/react-native-camera.git",
+    "react-native-loading-spinner-overlay": "^0.3.0",
+    "react-native-vector-icons": "^2.1.0",
+    "rehacked-common": "git+https://github.com/reactjstampabay/rehacked-common.git"
+  }
+}
